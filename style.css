@@ -1,0 +1,220 @@
+.img-size{
+    width: 3rem;
+    ;
+}
+.black{
+background-color: black;
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 50px;
+z-index: 7;
+}
+.color{
+    color: white;
+    padding: 2rem ;
+}
+.color:hover{
+    background-color: white;
+    color: black;
+    padding: 4% 2rem;
+}
+.icon{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-right: 2rem;
+}
+.mirage{
+    background-image: url("img/mirage.jpg");
+    width: 100%;
+    height: 58rem;
+background-position: center;
+overflow: hidden;
+}
+.custom{
+    padding-top: 14rem;
+}
+.big{
+font-size: 4rem;
+}
+.medium{
+    font-size: 1.5rem;
+}
+.fasele{
+padding-top: 7rem;
+}
+.rang{
+color: white;
+text-decoration: none;
+background-color: rgb(207, 122, 61);
+border-radius: 1000px;
+padding: 0.9rem 4.5rem;
+font-size: 1.3rem;
+}
+.rang:hover{
+    background-color: rgb(255, 182, 129);
+    opacity: 1;
+}
+.rang1{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(207, 122, 61);
+    border-radius: 1000px;
+    padding: 0.9rem 3.5rem;
+    font-size: 1.3rem; 
+}
+.rang1:hover{
+    background-color: rgb(255, 182, 129);
+    opacity: 1;
+}
+/* @media(max-width:768px){
+    .rang{
+        color: white;
+        text-decoration: none;
+        background-color: rgb(207, 122, 61);
+        border-radius: 1000px;
+        padding: 0.9rem 1.5rem;
+        font-size: 1.3rem;
+    }
+} */
+.pain{
+    padding-top: 5rem;
+}
+.aks{
+    width: 97%;
+    height: 36rem;
+   
+}
+.ring{
+   
+}
+.aks2{
+    width:97%;
+    height: 36rem;
+}   
+.aks3{
+    width: 97%;
+    height: 36rem;
+}
+.link{
+    position: absolute;
+    top: 1rem;
+    left: 4rem;
+    font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.link2:hover{
+    text-decoration: underline;
+}
+.link2{
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+    font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
+}
+.link3{
+    position: absolute;
+    top: 1rem;
+    left: 5.9rem;
+    font-size: 1.2rem;
+    color: white;
+    text-decoration: none;
+}
+.link3:hover{
+    text-decoration: underline;
+}
+.picture1{
+border-radius: 10px;
+}
+.picture2{
+    border-radius: 10px;
+}
+.picture3{
+    border-radius: 10px;
+}
+.herkol{
+    position: absolute;
+left: 5rem;
+top: 26rem;
+font-size: 1.5rem; 
+color: white;
+}
+.herkol:hover{
+    text-decoration: underline;
+}
+.herkol1{
+    position: absolute;
+left: 1rem;
+top: 25rem;
+font-size: 1.5rem; 
+color: white; 
+}
+.herkol1:hover{
+    text-decoration: underline;
+}
+.sibil{
+    background-color: #e3e3e3;
+    height: 30rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.sang{
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+.bg-color{
+    background-color: rgb(23, 32, 49);
+    height: 19rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.left{
+    background-color: rgb(23, 32, 49);
+    width: 32rem;
+    text-align: left;
+    display: block;
+}
+.soop{
+    
+}
+.f-size{
+    padding-left: 19rem; 
+}
+.blue{
+    color: white;
+    text-decoration: none;
+    background-color: #2b77d9;
+    border-radius: 30px;
+    padding: 1rem;
+   
+}
+.blue:hover{
+    color: #2b77d9;
+    background-color: white;
+}
+.back-color{
+    background-color: black;
+    height: 4rem;
+
+}
+.sink{
+    background-color: white;
+    border-radius: 100px;
+    font-size: 1.3rem;
+color: black;
+padding: 0.5rem;
+}  
+.had{
+
+}
+.sink:hover{
+    background-color: #666363;
+}
